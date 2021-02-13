@@ -1,2 +1,2 @@
-# Finn
+# Finny
 * Very good person*
