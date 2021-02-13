@@ -5,6 +5,6 @@
 * shabbi 2
   * finn 2a
   * cool 3b
-he said that:
+He said that:
 > its good
 > i liked it.
