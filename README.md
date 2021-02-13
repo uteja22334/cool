@@ -1,3 +1,3 @@
 # Finny
 *Very good person*
-**A nice man**
+*A nice man*
