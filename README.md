@@ -1,5 +1,5 @@
 # Finny
-*Very good person*
-**A nice man**
+**Very good person*
+**A nice man***
 *Teja
 *shabbi
